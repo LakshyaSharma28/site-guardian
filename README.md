@@ -15,7 +15,7 @@ Everything is **passive** — the tool only reads publicly available information
 
 ## Installation
 
-    git clone https://github.com/YOUR_USERNAME/site-guardian.git
+    git clone https://github.com/LakshyaSharma28/site-guardian.git
     cd site-guardian
     python -m venv venv
     source venv/bin/activate
